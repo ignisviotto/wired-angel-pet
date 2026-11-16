@@ -1,0 +1,6 @@
+# made by build-angel.mjs and by taking screenshots of it
+pet-preview.html
+shots/
+*.zip
+*.log
+.claude-plugin/types/

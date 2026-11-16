@@ -1,0 +1,8 @@
+{
+  "name": "wired-angel-pet",
+  "version": "0.1.0",
+  "description": "A veiled angel of static with sigil wings keeps watch above the message box and answers, quietly, to what Claude is doing. Made to sit with the Wired Angel theme.",
+  "author": { "name": "ignisviotto" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

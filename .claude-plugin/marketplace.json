@@ -1,0 +1,5 @@
+{
+  "name": "ignisviotto-pets",
+  "owner": { "name": "ignisviotto" },
+  "plugins": [{ "name": "wired-angel-pet", "source": "./" }]
+}
